@@ -1,0 +1,8 @@
+#Ignore ide files
+.idea/
+
+# Ignore latex intermediary files
+.texpadtmp/
+
+#MacOs files
+.DS_Store
